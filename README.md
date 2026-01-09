@@ -19,3 +19,9 @@ AI-based web application that detects emotions from text using IBM Watson NLP an
 ## How to Run
 ```bash
 python3 server.py
+
+Open your browser at:
+http://localhost:5000
+
+Author
+Osman Kaan Kars
